@@ -1,8 +1,7 @@
-# React + Vite
+# ProjectsBorntoDev
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+โปรเจคสำหรับส่งโครงงานเพื่อรับใบประกาศนียบัตร BorntoDev โดยจะมีหมวดอยู่ 4 หมวดหมู่
+1.หมวดหมู่สุขภาพ  				:: โปรแกรมคำนวณ Heart rate zone
+2.หมวดหมู่ชีวิตประจำวัน		:: โปรแกรมเปรียบเทียบราคาสินค้า
+3.หมวดหมู่วิทยาศาสตร์		:: โปรแกรมคำนวณการเคลื่อนที่ในแนวระดับ
+4.หมวดหมู่การศึกษา			:: โปรแกรม Logic gates basics
