@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
+
+body {
+  font-family: "Kanit", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+#main-layout {
+    display: flex;
+    width: 100vw;
+    height: 100vh;  
+}
+
+
+.column1 {
+    width: 160px;
+    flex: none;
+    
+  }
+.column1 >section{
+    height: 100vh;
+  }
+.column2 {
+    width: 240px;
+    flex: none;
+  }
+  .column2 >section{
+    height: 100vh;
+  }
+  
+  .column3 {
+    flex-grow: 1;
+    width: 100vh;
+    
+  }
+  .column3 >section{
+    height: 100vh;
+    
+    overflow-y: auto;
+  }
